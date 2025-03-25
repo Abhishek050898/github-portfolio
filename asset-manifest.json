@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/github-portfolio/static/css/main.289f3cdb.css",
+    "main.js": "/github-portfolio/static/js/main.e2df3bb9.js",
+    "static/js/453.d1968fd6.chunk.js": "/github-portfolio/static/js/453.d1968fd6.chunk.js",
+    "static/media/mock10.png": "/github-portfolio/static/media/mock10.2d05b02ba569a430a255.png",
+    "static/media/mock_08.png": "/github-portfolio/static/media/mock_08.21f58a1b0bcd86a0beaf.png",
+    "static/media/mock_05.png": "/github-portfolio/static/media/mock_05.f35bbbe4621791e484bd.png",
+    "static/media/mock_04.png": "/github-portfolio/static/media/mock_04.c6f0e787b194188dd8c0.png",
+    "static/media/bg-light.png": "/github-portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/mock_06.png": "/github-portfolio/static/media/mock_06.f263bb4ec7fb82916628.png",
+    "static/media/mock_07.png": "/github-portfolio/static/media/mock_07.a835cf575176ac3016a4.png",
+    "static/media/bg-dark.png": "/github-portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/mock_03.png": "/github-portfolio/static/media/mock_03.bafbcdf20ae70fa152f7.png",
+    "static/media/mock_01.png": "/github-portfolio/static/media/mock_01.da9446bc1b24a3624e70.png",
+    "static/media/uom-modified.jpg": "/github-portfolio/static/media/uom-modified.7bafbcffc6c79a6de1dc.jpg",
+    "static/media/mock_02.png": "/github-portfolio/static/media/mock_02.560d2d40fd45ba12538b.png",
+    "index.html": "/github-portfolio/index.html",
+    "main.289f3cdb.css.map": "/github-portfolio/static/css/main.289f3cdb.css.map",
+    "main.e2df3bb9.js.map": "/github-portfolio/static/js/main.e2df3bb9.js.map",
+    "453.d1968fd6.chunk.js.map": "/github-portfolio/static/js/453.d1968fd6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.289f3cdb.css",
+    "static/js/main.e2df3bb9.js"
+  ]
+}
