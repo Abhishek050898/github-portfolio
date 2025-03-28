@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/github-portfolio/static/css/main.37f43bfa.css",
-    "main.js": "/github-portfolio/static/js/main.156ec8d1.js",
+    "main.css": "/github-portfolio/static/css/main.eabc5ef8.css",
+    "main.js": "/github-portfolio/static/js/main.8b99d0d5.js",
     "static/js/453.d1968fd6.chunk.js": "/github-portfolio/static/js/453.d1968fd6.chunk.js",
     "static/media/mock10.png": "/github-portfolio/static/media/mock10.2d05b02ba569a430a255.png",
     "static/media/mock_08.png": "/github-portfolio/static/media/mock_08.21f58a1b0bcd86a0beaf.png",
@@ -13,15 +13,16 @@
     "static/media/bg-dark.png": "/github-portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
     "static/media/mock_01.png": "/github-portfolio/static/media/mock_01.0eb3e49b743535e6f8fe.png",
     "static/media/mock_03.png": "/github-portfolio/static/media/mock_03.bafbcdf20ae70fa152f7.png",
+    "static/media/mock_11.png": "/github-portfolio/static/media/mock_11.fa3c768d4416af920411.png",
     "static/media/eeeee.jpg": "/github-portfolio/static/media/eeeee.7f35c92928c2e1e77e0a.jpg",
     "static/media/mock_02.png": "/github-portfolio/static/media/mock_02.560d2d40fd45ba12538b.png",
     "index.html": "/github-portfolio/index.html",
-    "main.37f43bfa.css.map": "/github-portfolio/static/css/main.37f43bfa.css.map",
-    "main.156ec8d1.js.map": "/github-portfolio/static/js/main.156ec8d1.js.map",
+    "main.eabc5ef8.css.map": "/github-portfolio/static/css/main.eabc5ef8.css.map",
+    "main.8b99d0d5.js.map": "/github-portfolio/static/js/main.8b99d0d5.js.map",
     "453.d1968fd6.chunk.js.map": "/github-portfolio/static/js/453.d1968fd6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.37f43bfa.css",
-    "static/js/main.156ec8d1.js"
+    "static/css/main.eabc5ef8.css",
+    "static/js/main.8b99d0d5.js"
   ]
 }
